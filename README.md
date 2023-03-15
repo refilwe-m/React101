@@ -8,6 +8,7 @@
 - [Recipe Search App](https://github.com/refilwe-m/recipe-search-app)
 - [Meme Generator](https://github.com/refilwe-m/meme-generator)
 - [Github Login](https://github.com/refilwe-m/github-login-app)
+- Memory Game
 
 ## A list of basic components one can build as a React Beginner
 ### Buttons:
